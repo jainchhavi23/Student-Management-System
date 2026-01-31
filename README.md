@@ -32,7 +32,6 @@ Keep track of students, update their info, and search records—all from your te
 3. Run the program:
 
 ```bash
-python student_management.py
 Example Usage
 🎓 Student Management System
 
@@ -61,3 +60,4 @@ ID     Name        Age   Course    Grade
 
 Author
 Chhavi Jain
+jchhavi2317@gmail.com
